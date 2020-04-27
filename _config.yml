@@ -25,17 +25,17 @@ projects:
   exclude:
     archived: false
     forks: true
-    projects: ["CSCI3390-HW2"]
+    projects:
     # - repo-name
 
- social_media:
+# social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  linkedin: "darius-russell-kish-964393101"
+  # linkedin: your_username
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -49,8 +49,6 @@ projects:
 topics:
   - name: Scientific Computing
 
-  - name: Computational and Systems Biology
+  - name: Enhanced Sampling Molecular Dynamics
 
-  - name: Enhanced Sampling in MD Simulations
-
-  - name: Molecular Docking
+  - name: Computational Biology
